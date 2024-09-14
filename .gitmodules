@@ -1,7 +1,8 @@
 [submodule "NativeComponents/ImGuizmo"]
 	path = NativeComponents/ImGuizmo
-	url = git@github.com:ktisis-tools/ImGuizmo
+	url = https://github.com/ktisis-tools/ImGuizmo.git
+	branch = master
 [submodule "NativeComponents/ImGui"]
 	path = NativeComponents/ImGui
-	url = git@github.com:ktisis-tools/gc-imgui/
-	branch = 1.88-enhanced-abifix
+	url = https://github.com/ktisis-tools/gc-imgui.git
+	branch = ktisis/1.88-enhanced-abifix
